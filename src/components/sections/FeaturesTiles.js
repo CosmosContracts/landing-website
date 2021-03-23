@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Speed
                     </h4>
                   <p className="m-0 text-sm">
-                    By utilizing cosmos networks scalibiliyt features, Juno can ensure fast contract execution, unlike current-gen blockchains.
+                    By utilizing cosmos networks scalibility features, Juno can ensure fast contract execution, unlike current-gen blockchains.
                     </p>
                 </div>
               </div>

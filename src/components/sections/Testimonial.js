@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'Community Voices',
-    paragraph: 'Without the help of the communtiy Juno wouldn\'t have existed. Here is what they have to say.'
+    paragraph: 'Without the help of the community Juno wouldn\'t have existed. Here is what they have to say.'
   };
 
   return (
@@ -62,7 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Smart contracts will make cosmos explode in usage. The community saw the need, and so they stepped up to the challenge. Juno is a true relection of what people can accomplish when they work together.
+                    — Smart contracts will make cosmos explode in usage. The community saw the need, and so they stepped up to the challenge. Juno is a true reflection of what people can accomplish when they work together.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">

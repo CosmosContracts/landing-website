@@ -65,7 +65,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              Tired of slow and expensive smart contacts?<br></br>Juno has got you covered!
+              Tired of slow and expensive smart contracts?<br></br>Juno has got you covered!
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
