@@ -11,6 +11,7 @@ developers/makers who want to create quick and professional smart contracts for 
     * [npm start](#npm-start)
     * [npm test](#npm-test)
     * [npm run build](#npm-run-build)
+    * [npm run deploy](#npm-run-deploy)
     * [npm run eject](#npm-run-eject)
   * [Learn More](#learn-more)
     * [Code Splitting](#code-splitting)
@@ -56,7 +57,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+#### `npm run deploy`
+
+When you want to deploy the updated website to github pages you can run: `npm run deploy`.
+
 
 #### `npm run eject`
 
