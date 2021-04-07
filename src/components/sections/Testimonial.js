@@ -96,14 +96,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — .
+                    — Juno shows the power of Starport, CosmWASM, and most importantly the cosmos community.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Vacant</span>
+                  <span className="testimonial-item-name text-color-high">Jack Zampolin</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Vacant</a>
+                    <a href="#0">SommFinance</a>
                   </span>
                 </div>
               </div>
