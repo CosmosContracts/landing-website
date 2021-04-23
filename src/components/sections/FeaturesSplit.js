@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Contracts that just work',
-    paragraph: 'Useability is the core to any product, that\'s why Juno keeps it simple — deploy your contract in a few easy steps.'
+    paragraph: 'Usability is the core to any product, that\'s why Juno keeps it simple — deploy your contract in a few easy steps.'
   };
 
   return (
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   IBC Contracts
                   </h3>
                 <p className="m-0">
-                  Smart contracts are great, what could be better right? How about smart contracts that can connect to other blockchains! With IBC the possibilities will be endless.
+                  Smart contracts are great, what could be better? How about smart contracts that can connect to other blockchains! With IBC the possibilities are endless.
                   </p>
               </div>
               <div className={

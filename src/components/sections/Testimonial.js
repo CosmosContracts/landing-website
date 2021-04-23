@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'Community Voices',
-    paragraph: 'Without the help of the community Juno wouldn\'t have existed. Here is what they have to say.'
+    paragraph: 'Without the help of the community Juno wouldn\'t exist. Here is what they have to say.'
   };
 
   return (
