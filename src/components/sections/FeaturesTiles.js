@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Speed
                     </h4>
                   <p className="m-0 text-sm">
-                    By utilizing cosmos networks scalibility features, Juno can ensure fast contract execution, unlike current-gen blockchains.
+                    Juno can ensure fast contract execution by utilizing the scalibility features of Cosmos, unlike current-gen blockchains.
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Cost
                     </h4>
                   <p className="m-0 text-sm">
-                     High fees are a hot topic in the blockchain world. Smart contract usage on Ethereum can cost $100s. Juno won't have this issue. 
+                     High fees are a hot topic in the blockchain world. Smart contract use on Ethereum can cost hundreds of dollars. Juno won't have this issue. 
                     </p>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                     Middleware
                     </h4>
                   <p className="m-0 text-sm">
-                    With the advent of IBC blockchains can now connect to each other. They could build smart contracts on Juno to create trusted computation middleware.
+                    With the advent of IBC, blockchains can now connect to each other. They can build smart contracts on Juno to create trusted computation middleware.
                     </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                     EVM
                     </h4>
                   <p className="m-0 text-sm">
-                    All the benefits of Ethereum, without all the issues. Port over your smart contracts or code new ones with solidity.
+                    All the benefits of Ethereum, without the issues. Port over your smart contracts or write new ones with Solidity.
                     </p>
                 </div>
               </div>
@@ -184,7 +184,7 @@ const FeaturesTiles = ({
                     IBC
                     </h4>
                   <p className="m-0 text-sm">
-                    Inter-Blockchain Communication is the glue that lets blockchains connect to each other without the need for a centralized point of failure.
+                    Inter-Blockchain Communication is the glue that lets blockchains connect to each other without a centralized point of failure.
                     </p>
                 </div>
               </div>
