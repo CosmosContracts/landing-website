@@ -6,10 +6,10 @@ const EcosystemContext = createContext();
 
 export const useEcosystem = () => useContext(EcosystemContext);
 
-const getRepoURL = () => 'https://api.github.com/repos/CosmosContracts/ecosystem-test/git/trees/main';
-const getTreeRepoUrl = (sha) => `https://api.github.com/repos/CosmosContracts/ecosystem-test/git/trees/${sha}`;
-const getJsonURL = (name) => `https://raw.githubusercontent.com/CosmosContracts/ecosystem-test/main/projects/${name}/index.json`;
-const getImageURL = (name, image) => `https://raw.githubusercontent.com/CosmosContracts/ecosystem-test/main/projects/${name}/${image}`;
+const getRepoURL = () => 'https://api.github.com/repos/CosmosContracts/landing-website/git/trees/master';
+const getTreeRepoUrl = (sha) => `https://api.github.com/repos/CosmosContracts/landing-website/git/trees/${sha}`;
+const getJsonURL = (name) => `https://raw.githubusercontent.com/CosmosContracts/landing-website/master/projects/${name}/index.json`;
+const getImageURL = (name, image) => `https://raw.githubusercontent.com/CosmosContracts/landing-website/master/projects/${name}/${image}`;
 
 const get = (url) => {
     const options = {
