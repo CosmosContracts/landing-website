@@ -7,6 +7,8 @@ developers/makers who want to create quick and professional smart contracts for 
 ## Table of contents
 
 * [Usage](#usage)
+  * [Ecosystem projects](#ecosystem-projects)
+    * [Publish your project](#publish-your-project)
   * [Available Scripts](#available-scripts)
     * [npm start](#npm-start)
     * [npm test](#npm-test)
@@ -25,9 +27,26 @@ developers/makers who want to create quick and professional smart contracts for 
 * [Terms and License](#terms-and-license)
 
 
-## Usage
+### Usage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Ecosystem projects
+
+#### `Publish your project`
+If you want your project to appears on the Juno Ecosystem page (https://junochain.com/ecosystem) you have to make a Pull Request on <> with two files:
+- your logo in .png format
+- index.json file that follows the following structure
+
+  `{
+    "name": "Imperator",
+    "type": "validator",
+    "image": "imp.png",
+    "state": 1,
+    "twitter_link": "twitter.com/imperator_co",
+    "tg_link": "t.me/ImperatorAnnouncements",
+    "address": "0XAPAIOSJAISNAISNAISSA"
+} `
 
 ### Available Scripts
 
@@ -114,6 +133,7 @@ In order to track visitors, you need to set an [environment variable](https://cr
 - [Cruip](https://cruip.com/)
 - [Nucleo](https://nucleoapp.com/)
 - [Unsplash](https://unsplash.com/)
+- [Imperator](https://imperator.co/)
 
 ## Terms and License
 
